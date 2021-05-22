@@ -1,0 +1,7 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "html"
+    },
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": true
+}
